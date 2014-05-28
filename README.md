@@ -31,5 +31,5 @@ Tips and Details
 
 ##Usage
 
-Input images is assigned in sample_code.m
-Run the sample_code
+1. Input images is assigned in sample_code.m
+2. Run the sample_code
